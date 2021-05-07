@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashwilliams" alt="ashwilliams" /></a> </p>
 
-- 🔭 I’m currently working on **Microsoft** as a `Senior Customer Engineer` and I'm really happy about it 🤓
+- 🔭 I’m currently working at **Microsoft** as a `Senior Customer Engineer` and I'm really happy about it 🤓
 
 
 <h3 align="left">Languages and Tools:</h3>
